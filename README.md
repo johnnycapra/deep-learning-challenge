@@ -41,13 +41,13 @@ I used 2 hidden layers.  Layer 1 had 80 neurons, layer 2 had 30 neurons and the 
 
 **Attempt 2** <br>
 
-![Attempt 2, Model Breakdown](images/Attempt2.png) <br>
+![Attempt 2, Model Breakdown](images/Attemp2.png) <br>
 
 I used 3 hidden layers. Layer 1 had 100 neurons, layer 2 had 60 neurons and layer 3 gd 20 neurons. I used all relu activation functions, except the output layer which was sigmoid, in hopes that it would increase my models accuracy. <br>
 
 **Attempt 2** <br>
 
-![Attempt 2, Model Breakdown](images/Attempt2.png) <br>
+![Attempt 2, Model Breakdown](images/Attempt3.png) <br>
 
 I used 3 hidden layers. Layer 1 had 100 neurons, layer 2 had 60 neurons and layer 3 gd 20 neurons. I used all tanh activation functions, except the output layer which was sigmoid, in hopes that it would increase my models accuracy. <br>
 
