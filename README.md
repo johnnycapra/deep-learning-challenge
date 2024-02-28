@@ -68,4 +68,4 @@ An applicant will be around 72% more successful in being funded if they: <br>
 - Have application type: T3, T4, T6, T5 and T19
 <br>
 
-An alternative model to recommend would be an Ensemble Model. I recommend this this suggestion because it combines multiple models to improve performance by using techniques such as boosting and stacking. 
+An alternative model to recommend would be an Ensemble Model like Randome Forest. I recommend this this suggestion because it combines multiple models to improve performance by using techniques such as boosting and stacking. 
